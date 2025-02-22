@@ -20,3 +20,4 @@ Beispiel #2:
 
 https://github.com/user-attachments/assets/7a9e3b92-68a6-4ea5-b390-1fc389158cd9
 
+Source: github.com/zeittresor/scifi-generator
